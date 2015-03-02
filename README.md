@@ -1,6 +1,6 @@
 # pox-gui-frontend
 #a gui frontend to run scripts for pox controller 
-#Tested with pox carp branch
+#Tested with pox carp branch & python 2.7
 
 
 General instructions:
