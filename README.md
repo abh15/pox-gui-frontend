@@ -1,9 +1,13 @@
-# pox-gui-frontend
-#a gui frontend to run scripts for pox controller 
-#Tested with pox carp branch & python 2.7
+# POXGUI
+#A gui frontend to run scripts for POX controller 
+
+*Requires python to be installed & added to PATH variable
 
 
 General instructions:
+
+
+
 -Give the path to folder containing pox.py
 
 
@@ -23,17 +27,23 @@ General instructions:
 
 
 -For Windows
+
+
 Click to run
 
 
 
 -For Mac 
+
+
 Download & install latest Mac OS X mono package from http://www.mono-project.com/download/
-,cd into the directory where poxgui.exe is located and execute 'mono poxgui.exe' 
+ cd into the directory where poxgui.exe is located and execute 'mono poxgui.exe' 
 
 
 
 -For Linux
+
+
 Download mono for your distribution from http://www.mono-project.com/download/
 (Ubuntu users can download using 'sudo apt-get install mono-complete')
-,cd into the directory where poxgui.exe is located and execute 'mono poxgui.exe' 
+ cd into the directory where poxgui.exe is located and execute 'mono poxgui.exe' 
